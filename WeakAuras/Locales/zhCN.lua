@@ -69,6 +69,9 @@ L["25 Player Raid (Titan Reforged)"] = "25 Player Raid (Titan Reforged)"
 L["40 Man Raid"] = "40人团队"
 L["40 Player Raid"] = "40人团队副本"
 L["5 Man Dungeon"] = "5人地下城"
+L["Mythic - Flexible Raiding"] = "史诗 - 弹性团队副本"
+L["Naigtal"] = "奈格塔尔"
+L["Timewalking"] = "时空漫游"
 L[ [=[A detailed overview of your auras and WeakAuras systems
 Copy the whole text to Weakaura's Discord if you need assistance.]=] ] = [=[一个包括你的光环和WeakAuras系统的详细信息。
 如果你需要帮助，复制整个文本到WeakAuras Discord。]=]

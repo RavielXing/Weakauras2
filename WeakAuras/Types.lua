@@ -3223,6 +3223,7 @@ if not WeakAuras.IsClassicEra() then
     [230] = unused, -- heroic party
     [231] = unused, -- normal raid dungeon
     [232] = unused, -- event party
+    [233] = L["Mythic - Flexible Raiding"],
     [236] = L["Lorewalking"],
     [241] = L["Lorewalking"],
     [237] = WeakAuras.IsMists() and L["Dungeon (Celestial)"] or unused,
@@ -3232,6 +3233,8 @@ if not WeakAuras.IsClassicEra() then
     [248] = unused, -- RENAME Event (placeholder name)
     [251] = L["Decor Duel"],
     [253] = L["Decor Duel"],
+    [254] = L["Naigtal"],
+    [257] = L["Timewalking"],
   }
 
   Private.instance_difficulty_types[0] =L["None"]
